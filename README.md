@@ -28,7 +28,18 @@ github链接如下：
 
 [SQ-dataset-with-variable-speed-for-fault-diagnosis](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/tree/main)  
 
+另带标签的PHM2009数据集链接如下：  
+[phm2009](https://github.com/mingzhangPHD/Supplementary-Dataset/tree/main)
+
 ## 6.2025年11月12日更新胶囊网络和DDCNN
 
 DDCNN原论文链接如下：  
-[Deep Decoupling Convolutional Neural Network for Intelligent Compound Fault Diagnosis](https://ieeexplore.ieee.org/document/8573572)
+[Deep Decoupling Convolutional Neural Network for Intelligent Compound Fault Diagnosis](https://ieeexplore.ieee.org/document/8573572)  
+
+## 7.2025年11月13日更新小波变换WT和傅里叶变换FFT
+
+小波变换WT论文链接如下：  
+[Compound Fault Diagnosis of Gearboxes via Multi-label Convolutional Neural Network and Wavelet Transform](https://www.sciencedirect.com/science/article/pii/S0166361519303768)  
+
+傅里叶变换FFT论文链接如下：  
+[Knowledge-informed multiplication convolution generalization network for interpretable equipment diagnosis under unknown speed domains](https://www.sciencedirect.com/science/article/abs/pii/S1568494625005745)

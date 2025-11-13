@@ -26,4 +26,9 @@ github链接如下：
 
 另SQ-dataset-with-variable-speed-for-fault-diagnosis数据集链接如下：
 
-[SQ-dataset-with-variable-speed-for-fault-diagnosis](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/tree/main)
+[SQ-dataset-with-variable-speed-for-fault-diagnosis](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/tree/main)  
+
+## 6.2025年11月12日更新胶囊网络和DDCNN
+
+DDCNN原论文链接如下：  
+[Deep Decoupling Convolutional Neural Network for Intelligent Compound Fault Diagnosis](https://ieeexplore.ieee.org/document/8573572)

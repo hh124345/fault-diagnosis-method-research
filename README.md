@@ -43,3 +43,12 @@ DDCNN原论文链接如下：
 
 傅里叶变换FFT论文链接如下：  
 [Knowledge-informed multiplication convolution generalization network for interpretable equipment diagnosis under unknown speed domains](https://www.sciencedirect.com/science/article/abs/pii/S1568494625005745)
+
+## 8.2025年11月14日更新CSAM-MSCNN( Channel Space Attention )
+
+CSAM-MSCNN论文链接如下：  
+[Multiscale Convolutional Neural Network Based on Channel
+ Space Attention for Gearbox Compound Fault Diagnosis](https://www.mdpi.com/1424-8220/23/8/3827)  
+
+
+

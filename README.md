@@ -51,4 +51,8 @@ CSAM-MSCNN论文链接如下：
  Space Attention for Gearbox Compound Fault Diagnosis](https://www.mdpi.com/1424-8220/23/8/3827)  
 
 
-
+## 9.2025年11月21日更新GMVTDA
+* 提出一种基于高斯混合变分的 Transformer 域自适应（GMVTDA）故障诊断方法。  
+* 设计基于 Transformer 层的特征提取器，用于捕捉长时依赖信息和局部特征；
+* 随后提出域对齐项，将两种工况下学习到的特征投影到公共辅助分布中，使对齐后特征服从相同分布；
+* 考虑到故障诊断是多分类任务，采用高斯混合模型构建公共辅助分布。
